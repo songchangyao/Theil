@@ -1,0 +1,2 @@
+# Theil
+Theil index
